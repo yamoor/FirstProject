@@ -1,2 +1,2 @@
 # FirstProject
-## this is first note for Fisrst project
+## this is first note for First project
